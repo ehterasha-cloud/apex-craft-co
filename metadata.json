@@ -1,0 +1,6 @@
+{
+  "name": "Apex Craft Co",
+  "description": "Premium home contractor website for Meridian Builders with minimalist aesthetic and luxury design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
